@@ -31,6 +31,7 @@ import { MatCardModule } from '@angular/material/card';
     MatSidenavModule,
     MatListModule,
     MatIconModule,
+    HomeComponent,
     MatCardModule
   ],
   providers: [],
